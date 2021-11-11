@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using Cake.Frosting;
 
 namespace CakeTest
@@ -7,7 +8,7 @@ namespace CakeTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Debug.WriteLine("Hello");
         }
     }
 }
