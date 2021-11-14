@@ -8,7 +8,7 @@ namespace CakeTest
     {
         static void Main(string[] args)
         {
-            Debug.WriteLine("Hello");
+            Debug.WriteLine("Hotfix");
         }
     }
 }
